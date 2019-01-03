@@ -32,12 +32,6 @@ $ comply init
 
 Once `comply init` is complete, just `git init` and `git push` your project to a new repository. You're ready to begin editing the included policy boilerplate text.
 
-# Discussion
-
-Join us in [Comply Users](https://join.slack.com/t/comply-users/shared_invite/enQtMzU3MTk5MDkxNDU4LTMwYzZkMjA4YjQ2YTM5Zjc0NTAyYWY5MDBlOGMwMzRmZTk5YzBlOTRiMTVlNGRlZjY1MTY1NDE0MjY5ZjYwNWU)
-
-
-
 Comply relies on [pandoc](https://pandoc.org/), which can be installed directly as an OS package or invoked via Docker.
 
 ## CLI
