@@ -36,25 +36,7 @@ Once `comply init` is complete, just `git init` and `git push` your project to a
 
 Join us in [Comply Users](https://join.slack.com/t/comply-users/shared_invite/enQtMzU3MTk5MDkxNDU4LTMwYzZkMjA4YjQ2YTM5Zjc0NTAyYWY5MDBlOGMwMzRmZTk5YzBlOTRiMTVlNGRlZjY1MTY1NDE0MjY5ZjYwNWU)
 
-# Screenshots
 
-[Demo video](https://vimeo.com/270257486)
-
-## Start a Project
-![screencast 1](sc-1.gif)
-
-## Build PDFs
-![screencast 4](sc-4.gif)
-![pdf example](pdf-example.png)
-
-
-## Track Policy Coverage
-![screencast 3](sc-2.gif)
-
-## Dashboard
-![screencast 2](sc-3.gif)
-
-## Dependencies
 
 Comply relies on [pandoc](https://pandoc.org/), which can be installed directly as an OS package or invoked via Docker.
 
